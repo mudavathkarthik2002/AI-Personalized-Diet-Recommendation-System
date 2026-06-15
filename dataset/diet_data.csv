@@ -1,0 +1,11 @@
+Age,Weight,Activity_Level,Diet_Type,Calories
+18,55,Low,Veg,1800
+20,60,Medium,Veg,2200
+25,70,High,NonVeg,2800
+30,80,High,NonVeg,3000
+35,65,Medium,Veg,2300
+40,75,Low,Veg,2000
+22,58,Medium,Veg,2100
+28,68,High,NonVeg,2900
+45,85,Low,NonVeg,2200
+50,72,Medium,Veg,2100
